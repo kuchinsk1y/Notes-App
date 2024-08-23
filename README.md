@@ -17,7 +17,7 @@ JavaScript: Application logic and interaction with localStorage.
 
 # Installation and Usage
  1. Clone the repository:
-    git clone https://github.com/yourusername/task-manager.git
+    git clone [https://github.com/yourusername/task-manager.git](https://github.com/kuchinsk1y/Notes-App.git)
     
  2. Navigate to the project directory:
     cd task-manager
