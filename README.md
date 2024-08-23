@@ -1,6 +1,6 @@
 # Task Manager
 
-Demo: 
+Demo: https://kuchinsk1y.github.io/Notes-App/
 
 Task Manager is a simple web application for managing tasks. It allows users to add, edit, and delete tasks. Tasks are displayed as cards with options to edit and delete. All data is stored in the browser's local storage, enabling persistence across page reloads.
 
